@@ -8,8 +8,11 @@ tags:
 - 操作系统
 - 笔记
 toc: true 
-eate: {{ date }}
+date: {{ date }}
 ---
+
+
 <!--more-->
+
 ------
 

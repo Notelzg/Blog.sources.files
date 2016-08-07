@@ -1,0 +1,10 @@
+{
+    "src_dir"       :   "/home/logan/Documents/Blog/hexo/images_/2016-08-07",
+    "access_key"    :   "qo8XH32bRV5D67IUibCQl9_gdxxaNKmvBn6tFPf-",
+    "secret_key"    :   "oyazClApQJ38U4N_PDo0hZeghRQUC09Hne7Xq592",
+    "bucket"        :   "blog",
+    "check_exists"  :  true, 
+    "overwrite"     :   true,
+    "key_prefix"    :   "2016/08/03/",
+    "rescan_local"  :   true
+}
