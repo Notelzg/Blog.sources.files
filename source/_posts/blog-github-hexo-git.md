@@ -53,16 +53,16 @@ https://github.com
 
 2. 生成密钥
 ```
-git config --global user.email "bu.ru@qq.com"  # 填写你github注册并且验证的邮箱
-git config --global user.name "bruce-sha"  # github 用户名
-ssh-keygen #  会出现下面的内容，一直按Enter键就行
-Generating public/private rsa key pair.
-Enter file in which to save the key (/home/logan/.ssh/id_rsa): 
-/home/logan/.ssh/id_rsa already exists.
-Overwrite (y/n)?  #因为我已经生成过了所以提示我，你就一直按就行 
-最后在你的.ssh 目录下面生成 id_rsa(私钥) id_rsa.pub(公钥)俩个文件，
-看见第二行没有会提示你在哪个目录下面生成文件
-开id_rsa.pub，复制里面的内容,到github，按照下面图片操作就可以了
+    git config --global user.email "bu.ru@qq.com"  # 填写你github注册并且验证的邮箱
+    git config --global user.name "bruce-sha"  # github 用户名
+    ssh-keygen #  会出现下面的内容，一直按Enter键就行
+    Generating public/private rsa key pair.
+    Enter file in which to save the key (/home/logan/.ssh/id_rsa): 
+    /home/logan/.ssh/id_rsa already exists.
+    Overwrite (y/n)?  #因为我已经生成过了所以提示我，你就一直按就行 
+    最后在你的.ssh 目录下面生成 id_rsa(私钥) id_rsa.pub(公钥)俩个文件，
+    看见第二行没有会提示你在哪个目录下面生成文件
+    开id_rsa.pub，复制里面的内容,到github，按照下面图片操作就可以了
 ```
 ![第1步](http://o7gxd9g18.bkt.clouddn.com/2016/08/03/5.jpg)
 ![第2步](http://o7gxd9g18.bkt.clouddn.com/2016/08/03/6.jpg)
