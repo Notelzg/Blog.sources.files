@@ -16,7 +16,7 @@ date: 2016-07-17 19:10:38
 
 <!--more-->
 -------------------
-# window开机流程
+ window开机流程
 ## 流程
     加电-->BIOS--> MBR--> DPT--> pbr--> Bootmgr--> bcd--> Winload.exe---
 ----> 内核加载--> 整个windows7系统
